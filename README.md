@@ -3,7 +3,9 @@
 
 ## About me:
 🩵 Majoring in CS with a concentration in AI at Northeastern University
+
 ✨ Interested in programming and design, and love discovering new hobbies and skills
+
 💎 Currently learning C/C++ and how to crochet
 
 ## Feel free to connect on [LinkedIn](https://www.linkedin.com/in/rebecca-megan-lee/) or email me at <lee.rebec@northeastern.edu>
