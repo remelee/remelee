@@ -1,4 +1,4 @@
-![header](https://i.pinimg.com/originals/b9/1d/e5/b91de583dc2cef49426c22ae8fe36f18.jpg)
+![header](https://64.media.tumblr.com/cffca5aae2dd5da0b31c5a056676026d/tumblr_p407slVg8M1w3goilo8_r1_1280.png)
 # <center> Hi, I'm Rebecca Lee 👋</center>
 
 ### About me:
@@ -36,8 +36,7 @@
 
 
 ## <center> Thank you for visiting! </center>
-
-![header](https://64.media.tumblr.com/cffca5aae2dd5da0b31c5a056676026d/tumblr_p407slVg8M1w3goilo8_r1_1280.png)
+![header](https://i.pinimg.com/originals/b9/1d/e5/b91de583dc2cef49426c22ae8fe36f18.jpg)
 
 
 <!--
