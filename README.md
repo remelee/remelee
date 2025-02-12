@@ -1,4 +1,13 @@
-### Howdy there 👋
+# Hi 👋
+## I'm Rebecca Lee (she/her)
+
+## About me:
+🩵 Majoring in CS with a concentration in AI at Northeastern University
+✨ Interested in programming and design, and love discovering new hobbies and skills
+💎 Currently learning C/C++ and how to crochet
+
+## Feel free to connect on [LinkedIn](https://www.linkedin.com/in/rebecca-megan-lee/) or email me at <lee.rebec@northeastern.edu>
+
 
 <!--
 **remelee/remelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
