@@ -9,7 +9,7 @@
 
 &nbsp;&nbsp;💎 Currently learning game development and how to crochet
 
-**Feel free to connect on [LinkedIn](https://www.linkedin.com/in/rebecca-megan-lee/) or email me at <lee.rebec@northeastern.edu>**
+**Feel free to connect on [LinkedIn](https://www.linkedin.com/in/rebecca-megan-lee/) or email me at <lee.rebec@northeastern.edu>. Most of projects are private, but available upon request.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
