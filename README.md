@@ -7,7 +7,7 @@
 
 &nbsp;&nbsp;✨ Interested in programming and design
 
-&nbsp;&nbsp;💎 Currently learning C/C++ and how to crochet
+&nbsp;&nbsp;💎 Currently learning game development and how to crochet
 
 **Feel free to connect on [LinkedIn](https://www.linkedin.com/in/rebecca-megan-lee/) or email me at <lee.rebec@northeastern.edu>**
 
